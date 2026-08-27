@@ -1,0 +1,16 @@
+# Bank Management System - CLI Based
+# Python Version: Python 3.8+
+#
+# Standard Library Dependencies:
+# This project utilizes 100% standard built-in Python modules:
+# - sqlite3 (Database)
+# - hashlib & hmac & secrets (PBKDF2 password hashing)
+# - decimal (Accurate monetary arithmetic)
+# - datetime (Timestamping & date calculations)
+# - logging (Audit trail and event logging)
+# - getpass (Hidden terminal password masking)
+# - csv (Reports export)
+# - re (Input regex validation)
+# - unittest (Automated test suite)
+#
+# No external third-party packages (e.g. PyPI packages) are required to run this application.

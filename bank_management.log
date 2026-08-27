@@ -1,0 +1,70 @@
+2026-08-27 10:08:20 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmpwlbvqvt0.db
+2026-08-27 10:08:20 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [WITHDRAWAL_COMPLETED] Withdrawal of Rs. 50,000.00 from Account 1000000001. TXN ID: TXN202608270003. Remaining Balance: Rs. 0.00
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [ACCOUNT_CLOSED] Account 1000000001 has been Closed.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmplbc2b7w8.db
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [ACCOUNT_CREATED] Created Savings account 1000000003 for customer ID 1 with initial balance 15000.00.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmp2xagb_2u.db
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [ACCOUNT_FROZEN] Account 1000000001 has been Frozen.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [ACCOUNT_UNFROZEN] Account 1000000001 has been Unfrozen/Activated.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmpvmflk24s.db
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:21 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [ADMIN_LOGIN_SUCCESS] Admin 'admin' logged in successfully.
+2026-08-27 10:08:22 [WARNING] [BankManagementSystem]: [ADMIN_LOGIN_FAILED] Admin login failed: Invalid password for 'admin'.
+2026-08-27 10:08:22 [WARNING] [BankManagementSystem]: [ADMIN_LOGIN_FAILED] Admin login failed: Username 'nonexistent' not found.
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmpiraia__5.db
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [TRANSFER_COMPLETED] Transfer Rs. 20,000.00 from 1000000001 to 1000000002. Sender TXN: TXN202608270003, Receiver TXN: TXN202608270004
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmplvlmy05j.db
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [CUSTOMER_LOGIN_SUCCESS] Customer 'm_ali' (ID: 1) logged in successfully.
+2026-08-27 10:08:22 [WARNING] [BankManagementSystem]: [CUSTOMER_LOGIN_FAILED] Customer login failed: Invalid password for 'm_ali'.
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [CUSTOMER_BLOCKED] Customer ID 1 (m_ali) status set to Blocked.
+2026-08-27 10:08:22 [WARNING] [BankManagementSystem]: [CUSTOMER_LOGIN_BLOCKED] Blocked customer 'm_ali' attempted login.
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [CUSTOMER_UNBLOCKED] Customer ID 1 (m_ali) status set to Active.
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [CUSTOMER_LOGIN_SUCCESS] Customer 'm_ali' (ID: 1) logged in successfully.
+2026-08-27 10:08:22 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmpezkt6cx1.db
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [CUSTOMER_PROFILE_UPDATED] Customer ID 1 updated profile details.
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmpu3zzt96i.db
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [CUSTOMER_REGISTERED] Customer 'Hamza Khan' (ID: 3, User: hamza_k) registered successfully.
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmpyofro4yn.db
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [DEPOSIT_COMPLETED] Deposit of Rs. 10,000.00 to Account 1000000001. TXN ID: TXN202608270003. New Balance: Rs. 60,000.00
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [WITHDRAWAL_COMPLETED] Withdrawal of Rs. 5,000.00 from Account 1000000001. TXN ID: TXN202608270004. Remaining Balance: Rs. 55,000.00
+2026-08-27 10:08:23 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmpikytvzv6.db
+2026-08-27 10:08:24 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:24 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:24 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmpkncqnlq_.db
+2026-08-27 10:08:24 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:24 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:24 [INFO] [BankManagementSystem]: [CSV_EXPORT] Customer report exported to C:\Users\CH Nouman Qamar\Documents\GitHub\Bank management system\test_customers.csv
+2026-08-27 10:08:24 [INFO] [BankManagementSystem]: [CSV_EXPORT] Accounts report exported to C:\Users\CH Nouman Qamar\Documents\GitHub\Bank management system\test_accounts.csv
+2026-08-27 10:08:24 [INFO] [BankManagementSystem]: [CSV_EXPORT] Transactions report exported to C:\Users\CH Nouman Qamar\Documents\GitHub\Bank management system\test_transactions.csv
+2026-08-27 10:08:25 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmp4lenmipj.db
+2026-08-27 10:08:25 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:25 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:08:25 [INFO] [BankManagementSystem]: [ACCOUNT_FROZEN] Account 1000000002 has been Frozen.
+2026-08-27 10:08:25 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CHNOUM~1\AppData\Local\Temp\tmpl0h3glzj.db
+2026-08-27 10:08:25 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:08:25 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:09:20 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CH Nouman Qamar\Documents\GitHub\Bank management system\bank_management.db
+2026-08-27 10:09:20 [INFO] [BankManagementSystem]: [DEMO_DATA] Default admin 'admin' created.
+2026-08-27 10:09:20 [INFO] [BankManagementSystem]: [DEMO_DATA] Sample customers and accounts seeded successfully.
+2026-08-27 10:09:20 [INFO] [BankManagementSystem]: [CSV_EXPORT] Customer report exported to C:\Users\CH Nouman Qamar\Documents\GitHub\Bank management system\customers_report.csv
+2026-08-27 10:09:20 [INFO] [BankManagementSystem]: [CSV_EXPORT] Accounts report exported to C:\Users\CH Nouman Qamar\Documents\GitHub\Bank management system\accounts_report.csv
+2026-08-27 10:09:20 [INFO] [BankManagementSystem]: [CSV_EXPORT] Transactions report exported to C:\Users\CH Nouman Qamar\Documents\GitHub\Bank management system\transactions_report.csv
+2026-08-27 10:09:54 [INFO] [BankManagementSystem]: [SYSTEM_STARTUP] Bank Management System initialized.
+2026-08-27 10:09:54 [INFO] [BankManagementSystem]: [DATABASE_INITIALIZED] Database schema verified at C:\Users\CH Nouman Qamar\Documents\GitHub\Bank management system\bank_management.db

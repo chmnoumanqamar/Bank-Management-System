@@ -1,0 +1,3 @@
+Customer ID,Full Name,CNIC,Phone,Email,Address,Date of Birth,Username,Status,Registered Date
+1,Muhammad Ali,42101-1234567-1,03001234567,muhammad.ali@example.com,"House 12, Street 4, F-7/2, Islamabad",1994-05-14,m_ali,Active,2026-08-27 10:09:20
+2,Fatima Zahra,35202-9876543-2,03219876543,fatima.z@example.com,"Flat 304, Gulberg Heights, Lahore",1998-11-20,f_zahra,Active,2026-08-27 10:09:20
